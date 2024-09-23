@@ -20,7 +20,7 @@ A Alura oferece uma ampla gama de cursos focados em desenvolvimento, design, mar
 
 Você pode testar a versão do jogo diretamente no seu navegador:
 
-[**Clique aqui para jogar!**](https://jogo-do-numero-secreto-sigma-two.vercel.app/)
+[**Clique aqui para jogar!**](https://jogo-numero-secreto-pi-woad.vercel.app/)
 
 
 ## Contribuições
